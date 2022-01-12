@@ -1,6 +1,6 @@
 # startup_namer
 
-My first Flutter project made by following `Codelabs: Write Your First Flutter App`.
+My first Flutter project created by following `Flutter/Codelabs Tutorial: Write Your First Flutter App`.
 
 ## References
 
