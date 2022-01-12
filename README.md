@@ -1,8 +1,8 @@
 # startup_namer
 
-A new Flutter project.
+My first Flutter project created by following `Flutter/Codelabs Tutorial: Write Your First Flutter App`.
 
-## Getting Started
+## References
 
 This project is a starting point for a Flutter application.
 
